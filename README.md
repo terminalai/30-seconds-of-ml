@@ -1,4 +1,4 @@
-# 30 seconds of ML
+# 30 Seconds of ML
 
 > Short Python code snippets for all your machine learning needs
 
