@@ -1,6 +1,7 @@
 # IDE Specific
 .vscode
-.idea/codeStyles/Project.xml
+.idea/
+.obsidian/
 
 # dotenv environment variables file
 .env
