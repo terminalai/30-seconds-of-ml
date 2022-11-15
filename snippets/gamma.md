@@ -1,6 +1,6 @@
 # `gamma.py`
 
-A function to claculate the gamma function for "multiples of 1/2", i.e. x where {x} = 0.5 or 1.0.
+A function to claculate the gamma function for "multiples of 1/2", i.e. $x$ where $\\{x\\} = 0.5$ or $\\{x\\} = 0.0$.
 
 ```py
 def gamma(n):
